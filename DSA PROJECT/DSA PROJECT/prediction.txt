@@ -1,0 +1,5 @@
+Patient ID: 1
+Diabetes Risk: 1
+Heart Risk: 1
+Hypertension Risk: 1
+-------------------

@@ -1,0 +1,91 @@
+Patient Risk: 85
+Patient Risk: 85
+Patient ID: 1
+Diabetes Risk: 0.899699
+Heart Risk: 0.899699
+Hypertension Risk: 0.899699
+Patient ID: 102
+Diabetes Risk: 0.910153
+Heart Risk: 0.910153
+Hypertension Risk: 0.910153
+Patient ID: 103
+Diabetes Risk: 2.36986
+Heart Risk: 2.36986
+Hypertension Risk: 2.36986
+Patient ID: 104
+Diabetes Risk: 0.89985
+Heart Risk: 0.89985
+Hypertension Risk: 0.89985
+Patient ID: 106
+Diabetes Risk: 0.892299
+Heart Risk: 0.892299
+Hypertension Risk: 0.892299
+Patient ID: 107
+Diabetes Risk: 0.99926
+Heart Risk: 0.995215
+Hypertension Risk: 0.992861
+Patient ID: 20
+Diabetes Risk: 0.995058
+Heart Risk: 0.990529
+Hypertension Risk: 0.989175
+Patient ID: 150
+Diabetes Risk: 0.99926
+Heart Risk: 0.995215
+Hypertension Risk: 0.992861
+Patient ID: 1
+Diabetes Risk: 0.99926
+Heart Risk: 0.995215
+Hypertension Risk: 0.992861
+Patient ID: 106
+Diabetes Risk: 0.000600228
+Heart Risk: 0.000593874
+Hypertension Risk: 0.000597416
+Patient ID: 180
+Diabetes Risk: 0.000600438
+Heart Risk: 0.000586647
+Hypertension Risk: 0.000585744
+Patient ID: 2
+Diabetes Risk: 0.000600228
+Heart Risk: 0.000593874
+Hypertension Risk: 0.000597416
+Patient ID: 102
+Diabetes Risk: 0.000600678
+Heart Risk: 0.000594467
+Hypertension Risk: 0.000598088
+Patient ID: 2
+Diabetes Risk: 0.000600678
+Heart Risk: 0.000594467
+Hypertension Risk: 0.000598088
+Patient ID: 111
+Diabetes Risk: 0.995869
+Heart Risk: 0.991756
+Hypertension Risk: 0.997309
+Patient ID: 111
+Diabetes: 0
+Heart: 0
+Hypertension: 0
+Patient ID: 111
+Diabetes: 1
+Heart: 1
+Hypertension: 1
+1 0.999977 0.999977 0.999977
+123 0.999911 0.999911 0.999911
+2 0.993257 0.993257 0.993257
+Patient ID: 1
+Diabetes Risk: 0.767712
+Heart Risk: 0.767712
+Hypertension Risk: 0.767712
+Patient ID: 12
+Diabetes Risk: 0.999511
+Heart Risk: 0.967113
+Hypertension Risk: 0.921485
+
+Patient ID: 2
+Diabetes Risk: 0.00100091
+Heart Risk: 1.04504e-06
+Hypertension Risk: 2.18067e-07
+
+101 0.999655 0.999655 0.999655
+102 0.0952314 0.0952314 0.0952314
+101 0.999655 0.997136 0.856204
+102 0.0952314 0.0044149 0.00110173
